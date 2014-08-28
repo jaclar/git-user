@@ -1,0 +1,23 @@
+{
+  "name": "git-user",
+  "version": "0.0.1",
+  "description": "Get info about git user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaclar/git-user"
+  },
+  "keywords": [
+    "git",
+    "git-config"
+  ],
+  "author": "Lars Jacob (lars@jaclar.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaclar/git-user/issues"
+  },
+  "homepage": "https://github.com/jaclar/git-user"
+}
